@@ -1,0 +1,3 @@
+[submodule "sre.plugin.quantivly.visualization.change-slot-duration"]
+	path = sre.plugin.quantivly.visualization.change-slot-duration
+	url = git@github.com:quantivly/change-slot-duration-visualizer.git
